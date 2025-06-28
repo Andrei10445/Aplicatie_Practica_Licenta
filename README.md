@@ -1,6 +1,6 @@
 # Aplicatie_Practica_Licenta - Implementarea unui control automat HVAC utilizand automate programabile Siemens
 ## Repository GIT
-Adresa Repository: 
+Adresa Repository: https://github.com/Andrei10445/Aplicatie_Practica_Licenta
 ## Pași de instalare , compilare și lansare a aplicației
 1.Se descarcă fișierul `Project1.rar` din repository și extrageți conținutul acestuia.
 2.Deschideți programul TIA Portal v15.1 ( Versiune recomandată) .
