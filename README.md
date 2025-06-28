@@ -3,14 +3,14 @@
 Adresa Repository: https://github.com/Andrei10445/Aplicatie_Practica_Licenta
 ## Pași de instalare , compilare și lansare a aplicației
 
-1.Se descarcă fișierul `Project1.rar` din repository și extrageți conținutul acestuia.
-2.Deschideți programul TIA Portal v15.1 ( Versiune recomandată) .  
+   1.Se descarcă fișierul `Project1.rar` din repository și extrageți conținutul acestuia.
+   2.Deschideți programul TIA Portal v15.1 ( Versiune recomandată) .  
 
-3.În TIA Portal se selectează optiunea **Open existing project**, dupa care navigati catre folderul extras si deschideti fisierul `Aplicatie.ap15_1`.
+   3.În TIA Portal se selectează optiunea **Open existing project**, dupa care navigati catre folderul extras si deschideti fisierul `Aplicatie.ap15_1`.
 
-4.In fereastra urmatoare , selectati optiunea **Open the project view** , din partea de jos.
+   4.In fereastra urmatoare , selectati optiunea **Open the project view** , din partea de jos.
 
-5.In panoul din stanga , selectati 'PLC_1 [CPU 1214C DC/DC/DC], click dreapta pe el , si selectati **"Start simulation"**.
+   5.In panoul din stanga , selectati 'PLC_1 [CPU 1214C DC/DC/DC], click dreapta pe el , si selectati **"Start simulation"**.
 
 6. În fereastra de simulare, apăsați **"Load"**, modificați câmpul `Start modules` din `No action` în `Start module`, apoi apăsați **"Finish"**.
 
